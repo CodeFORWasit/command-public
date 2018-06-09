@@ -1,6 +1,4 @@
 
-# 0
-
 # Step 1 
 ## git config --global user.name "Your Name"
 ## git config --global user.email "Your Email" 
@@ -13,5 +11,3 @@
 ## 1- git add .
 ## 2- git commit -m "I am uplode My Porject"
 ## 3- git push -u origin master
-
-# 0
